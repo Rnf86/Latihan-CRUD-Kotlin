@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334457239483",
+    "project_id": "rnfnews-f026e",
+    "storage_bucket": "rnfnews-f026e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334457239483:android:2f537376b66a34be7af69e",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3_AiD4r06AtEIzxZMK2WbQZ9feFr_1sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
