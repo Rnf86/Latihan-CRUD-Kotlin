@@ -125,7 +125,7 @@ class NewsAdd : AppCompatActivity() {
     }
 
     private fun saveData(id:String?, newsTitle: String, newsDesc: String, imageUrl: String) {
-        var news = hashMapOf<String, Any>()
+        val news = hashMapOf<String, Any>()
             news.put("title", newsTitle)
             news.put("desc", newsDesc)
             news.put("imageUrl", imageUrl)

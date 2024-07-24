@@ -1,4 +1,4 @@
-package com.example.studikasuspoint7
+package com.example.myapplicationtest
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
